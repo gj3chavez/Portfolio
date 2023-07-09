@@ -37,13 +37,13 @@ const Home = () => {
           </div>
 
 
-          {/* <p className='home__text'>
-          Welcome to my portfolio! As a full stack developer, I am passionate about building innovative, efficient, and user-friendly web applications. My goal is to create software solutions that not only meet the needs of businesses and organizations but also provide seamless experiences for end-users. In my portfolio, you'll find a collection of projects that showcase my skills and expertise in front-end and back-end development, as well as my ability to work collaboratively in a team environment. From design to deployment, I strive to maintain the highest level of professionalism, quality, and attention to detail in all of my work. Thank you for taking the time to browse my portfolio, and I look forward to hearing from you soon!
+          <p className='home__text'>
+          Welcome to my portfolio! My name is Giuliana Chavez and I am a full stack developer, I am passionate about building innovative, efficient, and user-friendly web applications. My goal is to create software solutions that not only meet the needs of businesses and organizations but also provide seamless experiences for end-users. In my portfolio, you'll find a collection of projects that showcase my skills and expertise in front-end and back-end development, as well as my ability to work collaboratively in a team environment. From design to deployment, I strive to maintain the highest level of professionalism, quality, and attention to detail in all of my work. Thank you for taking the time to browse my portfolio, and I look forward to hearing from you soon!
           
-          </p> */}
+          </p>
 
 
-          <div className='home_text'>
+          {/* <div className='home_text'>
             <TypeWriterEffect
             textStyle={{
             // fontFamily: 'Red Hat Display',
@@ -76,7 +76,7 @@ const Home = () => {
           typeSpeed={30}
           />
 
-          </div>
+          </div> */}
 
           <div className='home__socials'>
           <a

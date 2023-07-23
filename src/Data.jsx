@@ -139,7 +139,7 @@ export const projects = [
     title: 'Cardify',
     description:
       'Cardify allows you to personalize your chosen card template in just a few easy steps. You can add your own text, select from a wide variety of fonts, and choose from an array of eye-catching colors to make your message truly stand out. Additionally, you have the option to insert photos or images directly from your device, bringing an extra touch of personalization to your card.',
-    link: 'https://cardify-app.herokuapp.com/'
+    link: 'https://floating-brushlands-04245.herokuapp.com/'
   },
   {
     id: 2,

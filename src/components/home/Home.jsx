@@ -1,5 +1,5 @@
 import React from 'react';
-import TypeWriterEffect from 'react-typewriter-effect';
+// import TypeWriterEffect from 'react-typewriter-effect';
 import profileImg from '../../assets/profile-img.png'
 import shapeOne from '../../assets/shape-1.png';
 import shapeTwo from '../../assets/shape-2.png';

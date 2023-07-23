@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.9c500b53.css",
-    "main.js": "/Portfolio/static/js/main.200a9c9a.js",
+    "main.js": "/Portfolio/static/js/main.ca1327fc.js",
     "static/media/testimonial4.jpg": "/Portfolio/static/media/testimonial4.8efa38b1e9cf711814f1.jpg",
-    "static/media/profile-img.png": "/Portfolio/static/media/profile-img.8e78243dbc82128e2bb8.png",
     "static/media/testimonial1.jpg": "/Portfolio/static/media/testimonial1.fbab037b8f5a033b6fc5.jpg",
     "static/media/testimonial5.jpg": "/Portfolio/static/media/testimonial5.68b9aceb8482e4453641.jpg",
     "static/media/testimonial3.jpg": "/Portfolio/static/media/testimonial3.eb461926588a7a9eddc7.jpg",
     "static/media/testimonial2.jpg": "/Portfolio/static/media/testimonial2.ddf07b8575c86febf3df.jpg",
+    "static/media/profile-img.png": "/Portfolio/static/media/profile-img.de74eb032b583373aa94.png",
     "static/media/project6.jpeg": "/Portfolio/static/media/project6.f6f8a73d64e4a38235fc.jpeg",
     "static/media/project3.jpeg": "/Portfolio/static/media/project3.6526a67a8ea589c5e7ac.jpeg",
     "static/media/Giuliana-Cv.pdf": "/Portfolio/static/media/Giuliana-Cv.1be7bdc6f51546a19379.pdf",
@@ -20,10 +20,10 @@
     "static/media/project4.jpeg": "/Portfolio/static/media/project4.44ada1d0b69df16af696.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.9c500b53.css.map": "/Portfolio/static/css/main.9c500b53.css.map",
-    "main.200a9c9a.js.map": "/Portfolio/static/js/main.200a9c9a.js.map"
+    "main.ca1327fc.js.map": "/Portfolio/static/js/main.ca1327fc.js.map"
   },
   "entrypoints": [
     "static/css/main.9c500b53.css",
-    "static/js/main.200a9c9a.js"
+    "static/js/main.ca1327fc.js"
   ]
 }
